@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hi~</title>
+  
+  
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2021-08-19T13:44:14.195Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hi~</title>
+    <link href="http://yoursite.com/2021/08/19/hi/"/>
+    <id>http://yoursite.com/2021/08/19/hi/</id>
+    <published>2021-08-19T13:44:14.000Z</published>
+    <updated>2021-08-19T13:44:14.195Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>曾经读过的书</title>
+    <link href="http://yoursite.com/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/"/>
+    <id>http://yoursite.com/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/</id>
+    <published>2021-08-19T13:35:43.000Z</published>
+    <updated>2021-08-19T13:35:43.667Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生活也许需要点惊喜</title>
+    <link href="http://yoursite.com/2021/08/19/%E7%94%9F%E6%B4%BB%E4%B9%9F%E8%AE%B8%E9%9C%80%E8%A6%81%E7%82%B9%E6%83%8A%E5%96%9C/"/>
+    <id>http://yoursite.com/2021/08/19/%E7%94%9F%E6%B4%BB%E4%B9%9F%E8%AE%B8%E9%9C%80%E8%A6%81%E7%82%B9%E6%83%8A%E5%96%9C/</id>
+    <published>2021-08-19T00:31:57.000Z</published>
+    <updated>2021-08-19T00:32:29.254Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="买点小礼物"><a href="#买点小礼物" class="headerlink" title="买点小礼物"></a>买点小礼物</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;买点小礼物&quot;&gt;&lt;a href=&quot;#买点小礼物&quot; class=&quot;headerlink&quot; title=&quot;买点小礼物&quot;&gt;&lt;/a&gt;买点小礼物&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一些宝藏网站推荐</title>
+    <link href="http://yoursite.com/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
+    <id>http://yoursite.com/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</id>
+    <published>2021-08-18T16:04:12.000Z</published>
+    <updated>2021-08-19T00:22:27.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="在线壁纸4K8K应有尽有"><a href="#在线壁纸4K8K应有尽有" class="headerlink" title="在线壁纸4K8K应有尽有"></a><a href="https://wallhaven.cc/">在线壁纸4K8K应有尽有</a></h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;在线壁纸4K8K应有尽有&quot;&gt;&lt;a href=&quot;#在线壁纸4K8K应有尽有&quot; class=&quot;headerlink&quot; title=&quot;在线壁纸4K8K应有尽有&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://wallhaven.cc/&quot;&gt;在线壁纸4K8K应有尽有&lt;/a&gt;&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
