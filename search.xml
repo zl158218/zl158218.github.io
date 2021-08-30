@@ -48,8 +48,11 @@ Enter       ---- 回车键   (可以发微信消息)
 <li>AdBlock — 最佳广告拦截工具</li>
 <li>uBlock Origin </li>
 <li><code>这两个配合, 网站清爽一大截, 右击拦截指定页面元素, 让广告与你终生不再见</code></li>
-<li><code>...</code></li>
-<li>—<span id="more"></span></li>
+<li><code>...</code><span id="more"></span>
+</li>
+</ul>
+<hr>
+<ul>
 <li>你以为这就完了? 当然不会, 还有更骚的比如:<ol>
 <li><code>CSDN, 知乎, 各种弹窗, 让你的鼠标一点再点</code></li>
 <li><code>全网视频音乐各种 VIP 破解</code></li>
