@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-08-30T12:21:37.564Z</updated>
+  <updated>2021-08-30T12:27:56.688Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,14 +16,15 @@
     <link href="http://yoursite.com/2021/08/30/home/"/>
     <id>http://yoursite.com/2021/08/30/home/</id>
     <published>2021-08-30T12:18:46.000Z</published>
-    <updated>2021-08-30T12:21:37.564Z</updated>
+    <updated>2021-08-30T12:27:56.688Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><p>Backspace   —- 删除键<br>Enter       —- 回车键<br>最下面最长的键— 空格键<br>四个方块  — Window 键</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><pre><code class="text">Backspace   ---- 删除键Enter       ---- 回车键   (可以发微信消息)最下面最长的键--- 空格键    (打完字按空格键)四个方块  --- Window 键   (Window + D 全部缩小)</code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;电脑操作键位图&quot;&gt;&lt;a href=&quot;#电脑操作键位图&quot; class=&quot;headerlink&quot; title=&quot;电脑操作键位图&quot;&gt;&lt;/a&gt;电脑操作键位图&lt;/h1&gt;&lt;p&gt;Backspace   —- 删除键&lt;br&gt;Enter       —- 回车键&lt;br&gt;最下面最长的</summary>
+    <summary type="html">&lt;h1 id=&quot;电脑操作键位图&quot;&gt;&lt;a href=&quot;#电脑操作键位图&quot; class=&quot;headerlink&quot; title=&quot;电脑操作键位图&quot;&gt;&lt;/a&gt;电脑操作键位图&lt;/h1&gt;&lt;pre&gt;&lt;code class=&quot;text&quot;&gt;Backspace   ---- 删除键
+Enter   </summary>
       
     
     

@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>home</title>
+    <url>/2021/08/30/home/</url>
+    <content><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><pre><code class="text">Backspace   ---- 删除键
+Enter       ---- 回车键   (可以发微信消息)
+最下面最长的键--- 空格键    (打完字按空格键)
+四个方块  --- Window 键   (Window + D 全部缩小)</code></pre>
+]]></content>
+  </entry>
+  <entry>
     <title>hi~</title>
     <url>/2021/08/19/hi/</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>曾经读过的书</title>
-    <url>/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/</url>
-    <content><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-p2oj5p_1920x1080.png" alt="books"></p>
-<h3 id="计算机"><a href="#计算机" class="headerlink" title="计算机"></a>计算机</h3><ul>
-<li><a href="https://weread.qq.com/web/reader/19532980715c01921954a54kc81322c012c81e728d9d180">Python 编程：从入门到实践 ——埃里克·马瑟斯</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>生活</tag>
-      </tags>
   </entry>
   <entry>
     <title>一些宝藏网站推荐</title>
@@ -32,9 +29,15 @@
     <content><![CDATA[<h1 id="买点小礼物"><a href="#买点小礼物" class="headerlink" title="买点小礼物"></a>买点小礼物</h1>]]></content>
   </entry>
   <entry>
-    <title>home</title>
-    <url>/2021/08/30/home/</url>
-    <content><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><p>Backspace   —- 删除键<br>Enter       —- 回车键<br>最下面最长的键— 空格键<br>四个方块  — Window 键</p>
+    <title>曾经读过的书</title>
+    <url>/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/</url>
+    <content><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-p2oj5p_1920x1080.png" alt="books"></p>
+<h3 id="计算机"><a href="#计算机" class="headerlink" title="计算机"></a>计算机</h3><ul>
+<li><a href="https://weread.qq.com/web/reader/19532980715c01921954a54kc81322c012c81e728d9d180">Python 编程：从入门到实践 ——埃里克·马瑟斯</a></li>
+</ul>
 ]]></content>
+      <tags>
+        <tag>生活</tag>
+      </tags>
   </entry>
 </search>
