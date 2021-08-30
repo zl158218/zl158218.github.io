@@ -40,4 +40,34 @@ Enter       ---- 回车键   (可以发微信消息)
         <tag>生活</tag>
       </tags>
   </entry>
+  <entry>
+    <title>屏蔽广告的一些骚操作</title>
+    <url>/2021/08/30/%E5%B1%8F%E8%94%BD%E5%B9%BF%E5%91%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AA%9A%E6%93%8D%E4%BD%9C/</url>
+    <content><![CDATA[<h2 id="Edge-浏览器"><a href="#Edge-浏览器" class="headerlink" title="Edge 浏览器"></a>Edge 浏览器</h2><ul>
+<li><h3 id="扩展工具"><a href="#扩展工具" class="headerlink" title="扩展工具"></a>扩展工具</h3><ul>
+<li>AdBlock — 最佳广告拦截工具</li>
+<li>uBlock Origin </li>
+<li><code>这两个配合, 网站清爽一大截, 右击拦截指定页面元素, 让广告与你终生不再见</code></li>
+<li><code>...</code></li>
+</ul>
+<hr>
+<ul>
+<li>你以为这就完了? 当然不会, 还有更骚的比如:<ol>
+<li><code>CSDN, 知乎, 各种弹窗, 让你的鼠标一点再点</code></li>
+<li><code>全网视频音乐各种 VIP 破解</code></li>
+<li><code>抢购助手等等~~</code></li>
+<li><code>功能过于强大自行体会</code></li>
+<li><code>...</code></li>
+</ol>
+</li>
+<li>Tampermonkey <code>---(英文版| 看名字就知道吧)</code></li>
+<li>暴力猴<code>----------(中文版| 话不多说开搞)</code></li>
+<li>安装好扩展后的你请点击 (<a href="https://greasyfork.org/zh-CN/scripts">这里, 对就点这里</a>) 找个想用的直接安装</li>
+<li><code>...</code></li>
+</ul>
+<hr>
+</li>
+</ul>
+]]></content>
+  </entry>
 </search>
