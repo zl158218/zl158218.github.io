@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>home</title>
+    <url>/2021/08/30/home/</url>
+    <content><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><pre><code class="text">Backspace   ---- 删除键
+Enter       ---- 回车键   (可以发微信消息)
+最下面最长的键--- 空格键    (打完字按空格键)
+四个方块  --- Window 键   (Window + D 全部缩小)</code></pre>
+]]></content>
+  </entry>
+  <entry>
     <title>hi~</title>
     <url>/2021/08/19/hi/</url>
     <content><![CDATA[<h1 id="溪花与禅意，相对亦忘言"><a href="#溪花与禅意，相对亦忘言" class="headerlink" title="溪花与禅意，相对亦忘言"></a>溪花与禅意，相对亦忘言</h1>]]></content>
+  </entry>
+  <entry>
+    <title>微信双开</title>
+    <url>/2021/10/26/%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80/</url>
+    <content><![CDATA[<p><img src="/images/wei_xin_00.png" alt=""></p>
+<h3 id="环境：window-10"><a href="#环境：window-10" class="headerlink" title="环境：window 10"></a>环境：window 10</h3><ol>
+<li>在微信官网下载后安装</li>
+<li>打开 Microsoft Store, 安装【微信 For Windows】<span id="more"></span></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一些宝藏网站推荐</title>
+    <url>/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-odj1mp_1920x1080.png" alt=""></p>
+<ul>
+<li><h3 id="在线壁纸-4K-8K-应有尽有"><a href="#在线壁纸-4K-8K-应有尽有" class="headerlink" title="在线壁纸 4K/8K 应有尽有"></a><a href="https://wallhaven.cc/">在线壁纸 4K/8K 应有尽有</a></h3></li>
+<li><h3 id="临时分享文件"><a href="#临时分享文件" class="headerlink" title="临时分享文件"></a><a href="https://airportal.cn/">临时分享文件</a></h3></li>
+</ul>
+]]></content>
   </entry>
   <entry>
     <title>屏蔽广告的一些骚操作</title>
@@ -33,38 +65,6 @@
 </ul>
 <hr>
 </li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>home</title>
-    <url>/2021/08/30/home/</url>
-    <content><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><pre><code class="text">Backspace   ---- 删除键
-Enter       ---- 回车键   (可以发微信消息)
-最下面最长的键--- 空格键    (打完字按空格键)
-四个方块  --- Window 键   (Window + D 全部缩小)</code></pre>
-]]></content>
-  </entry>
-  <entry>
-    <title>微信双开</title>
-    <url>/2021/10/26/%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80/</url>
-    <content><![CDATA[<p><img src="/images/wei_xin_00.png" alt=""></p>
-<h3 id="环境：window-10"><a href="#环境：window-10" class="headerlink" title="环境：window 10"></a>环境：window 10</h3><ol>
-<li>在微信官网下载后安装</li>
-<li>打开 Microsoft Store, 安装【微信 For Windows】<span id="more"></span></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一些宝藏网站推荐</title>
-    <url>/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-odj1mp_1920x1080.png" alt=""></p>
-<ul>
-<li><h3 id="在线壁纸-4K-8K-应有尽有"><a href="#在线壁纸-4K-8K-应有尽有" class="headerlink" title="在线壁纸 4K/8K 应有尽有"></a><a href="https://wallhaven.cc/">在线壁纸 4K/8K 应有尽有</a></h3></li>
-<li><h3 id="临时分享文件"><a href="#临时分享文件" class="headerlink" title="临时分享文件"></a><a href="https://airportal.cn/">临时分享文件</a></h3></li>
 </ul>
 ]]></content>
   </entry>
