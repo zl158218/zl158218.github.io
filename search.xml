@@ -1,88 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>home</title>
-    <url>/2021/08/30/home/</url>
-    <content><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><pre><code class="text">Backspace   ---- 删除键
-Enter       ---- 回车键   (可以发微信消息)
-最下面最长的键--- 空格键    (打完字按空格键)
-四个方块  --- Window 键   (Window + D 全部缩小)</code></pre>
-]]></content>
-  </entry>
-  <entry>
-    <title>hi~</title>
-    <url>/2021/08/19/hi/</url>
-    <content><![CDATA[<h1 id="溪花与禅意，相对亦忘言"><a href="#溪花与禅意，相对亦忘言" class="headerlink" title="溪花与禅意，相对亦忘言"></a>溪花与禅意，相对亦忘言</h1>]]></content>
-  </entry>
-  <entry>
-    <title>微信双开</title>
-    <url>/2021/10/26/%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80/</url>
-    <content><![CDATA[<p><img src="/images/wei_xin_00.png" alt=""></p>
-<h3 id="环境：window-10"><a href="#环境：window-10" class="headerlink" title="环境：window 10"></a>环境：window 10</h3><ol>
-<li>在微信官网下载后安装</li>
-<li>打开 Microsoft Store, 安装【微信 For Windows】<span id="more"></span></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一些宝藏网站推荐</title>
-    <url>/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-odj1mp_1920x1080.png" alt=""></p>
-<ul>
-<li><h3 id="在线壁纸-4K-8K-应有尽有"><a href="#在线壁纸-4K-8K-应有尽有" class="headerlink" title="在线壁纸 4K/8K 应有尽有"></a><a href="https://wallhaven.cc/">在线壁纸 4K/8K 应有尽有</a></h3></li>
-<li><h3 id="临时分享文件"><a href="#临时分享文件" class="headerlink" title="临时分享文件"></a><a href="https://airportal.cn/">临时分享文件</a></h3></li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>屏蔽广告的一些骚操作</title>
-    <url>/2021/08/30/%E5%B1%8F%E8%94%BD%E5%B9%BF%E5%91%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AA%9A%E6%93%8D%E4%BD%9C/</url>
-    <content><![CDATA[<h2 id="Edge-浏览器"><a href="#Edge-浏览器" class="headerlink" title="Edge 浏览器"></a>Edge 浏览器</h2><ul>
-<li><h3 id="扩展工具"><a href="#扩展工具" class="headerlink" title="扩展工具"></a>扩展工具</h3><ul>
-<li>AdBlock — 最佳广告拦截工具</li>
-<li>uBlock Origin </li>
-<li><code>这两个配合, 网站清爽一大截, 右击拦截指定页面元素, 让广告与你终生不再见</code></li>
-<li><code>...</code><span id="more"></span>
-</li>
-</ul>
-<hr>
-<ul>
-<li>你以为这就完了? 当然不会, 还有更骚的比如:<ol>
-<li><code>CSDN, 知乎, 各种弹窗, 让你的鼠标一点再点</code></li>
-<li><code>全网视频音乐各种 VIP 破解</code></li>
-<li><code>抢购助手等等~~</code></li>
-<li><code>功能过于强大自行体会</code></li>
-<li><code>...</code></li>
-</ol>
-</li>
-<li>Tampermonkey <code>---(英文版| 看名字就知道吧)</code></li>
-<li>暴力猴<code>----------(中文版| 话不多说开搞)</code></li>
-<li>安装好扩展后的你请点击 (<a href="https://greasyfork.org/zh-CN/scripts">这里, 对就点这里</a>) 找个想用的直接安装</li>
-<li><code>...</code></li>
-</ul>
-<hr>
-</li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>曾经读过的书</title>
-    <url>/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/</url>
-    <content><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-p2oj5p_1920x1080.png" alt="books"></p>
-<h3 id="计算机"><a href="#计算机" class="headerlink" title="计算机"></a>计算机</h3><ul>
-<li><a href="https://weread.qq.com/web/reader/19532980715c01921954a54kc81322c012c81e728d9d180">Python 编程：从入门到实践 ——埃里克·马瑟斯</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>生活也许需要点惊喜</title>
-    <url>/2021/08/19/%E7%94%9F%E6%B4%BB%E4%B9%9F%E8%AE%B8%E9%9C%80%E8%A6%81%E7%82%B9%E6%83%8A%E5%96%9C/</url>
-    <content><![CDATA[<h1 id="买点小礼物"><a href="#买点小礼物" class="headerlink" title="买点小礼物"></a>买点小礼物</h1>]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>微信双开</title>
+      <link href="/2021/10/26/%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80/"/>
+      <url>/2021/10/26/%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/wei_xin_00.png" alt=""></p><h3 id="环境：window-10"><a href="#环境：window-10" class="headerlink" title="环境：window 10"></a>环境：window 10</h3><ol><li>在微信官网下载后安装</li><li>打开 Microsoft Store, 安装【微信 For Windows】<span id="more"></span></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>屏蔽广告的一些骚操作</title>
+      <link href="/2021/08/30/%E5%B1%8F%E8%94%BD%E5%B9%BF%E5%91%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AA%9A%E6%93%8D%E4%BD%9C/"/>
+      <url>/2021/08/30/%E5%B1%8F%E8%94%BD%E5%B9%BF%E5%91%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AA%9A%E6%93%8D%E4%BD%9C/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Edge-浏览器"><a href="#Edge-浏览器" class="headerlink" title="Edge 浏览器"></a>Edge 浏览器</h2><ul><li><h3 id="扩展工具"><a href="#扩展工具" class="headerlink" title="扩展工具"></a>扩展工具</h3><ul><li>AdBlock — 最佳广告拦截工具</li><li>uBlock Origin </li><li><code>这两个配合, 网站清爽一大截, 右击拦截指定页面元素, 让广告与你终生不再见</code></li><li><code>...</code><span id="more"></span></li></ul><hr><ul><li>你以为这就完了? 当然不会, 还有更骚的比如:<ol><li><code>CSDN, 知乎, 各种弹窗, 让你的鼠标一点再点</code></li><li><code>全网视频音乐各种 VIP 破解</code></li><li><code>抢购助手等等~~</code></li><li><code>功能过于强大自行体会</code></li><li><code>...</code></li></ol></li><li>Tampermonkey <code>---(英文版| 看名字就知道吧)</code></li><li>暴力猴<code>----------(中文版| 话不多说开搞)</code></li><li>安装好扩展后的你请点击 (<a href="https://greasyfork.org/zh-CN/scripts">这里, 对就点这里</a>) 找个想用的直接安装</li><li><code>...</code></li></ul><hr></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>home</title>
+      <link href="/2021/08/30/home/"/>
+      <url>/2021/08/30/home/</url>
+      
+        <content type="html"><![CDATA[<h1 id="电脑操作键位图"><a href="#电脑操作键位图" class="headerlink" title="电脑操作键位图"></a>电脑操作键位图</h1><pre><code class="text">Backspace   ---- 删除键Enter       ---- 回车键   (可以发微信消息)最下面最长的键--- 空格键    (打完字按空格键)四个方块  --- Window 键   (Window + D 全部缩小)</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hi~</title>
+      <link href="/2021/08/19/hi/"/>
+      <url>/2021/08/19/hi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="溪花与禅意，相对亦忘言"><a href="#溪花与禅意，相对亦忘言" class="headerlink" title="溪花与禅意，相对亦忘言"></a>溪花与禅意，相对亦忘言</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>曾经读过的书</title>
+      <link href="/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/"/>
+      <url>/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-p2oj5p_1920x1080.png" alt="books"></p><h3 id="计算机"><a href="#计算机" class="headerlink" title="计算机"></a>计算机</h3><ul><li><a href="https://weread.qq.com/web/reader/19532980715c01921954a54kc81322c012c81e728d9d180">Python 编程：从入门到实践 ——埃里克·马瑟斯</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>生活也许需要点惊喜</title>
+      <link href="/2021/08/19/%E7%94%9F%E6%B4%BB%E4%B9%9F%E8%AE%B8%E9%9C%80%E8%A6%81%E7%82%B9%E6%83%8A%E5%96%9C/"/>
+      <url>/2021/08/19/%E7%94%9F%E6%B4%BB%E4%B9%9F%E8%AE%B8%E9%9C%80%E8%A6%81%E7%82%B9%E6%83%8A%E5%96%9C/</url>
+      
+        <content type="html"><![CDATA[<h1 id="买点小礼物"><a href="#买点小礼物" class="headerlink" title="买点小礼物"></a>买点小礼物</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一些宝藏网站推荐</title>
+      <link href="/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
+      <url>/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://zl158218.github.io/images/wallhaven-odj1mp_1920x1080.png" alt=""></p><ul><li><h3 id="在线壁纸-4K-8K-应有尽有"><a href="#在线壁纸-4K-8K-应有尽有" class="headerlink" title="在线壁纸 4K/8K 应有尽有"></a><a href="https://wallhaven.cc/">在线壁纸 4K/8K 应有尽有</a></h3></li><li><h3 id="临时分享文件"><a href="#临时分享文件" class="headerlink" title="临时分享文件"></a><a href="https://airportal.cn/">临时分享文件</a></h3></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
