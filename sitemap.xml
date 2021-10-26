@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2021/08/19/hi/</loc>
+    
+    <lastmod>2021-10-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2021/10/26/%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80/</loc>
     
     <lastmod>2021-10-26</lastmod>
@@ -45,13 +52,6 @@
   
   <url>
     <loc>http://yoursite.com/Python/index.html</loc>
-    
-    <lastmod>2021-08-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/08/19/hi/</loc>
     
     <lastmod>2021-08-19</lastmod>
     
