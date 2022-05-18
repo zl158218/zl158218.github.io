@@ -2,66 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2021/11/17/%E5%B7%A5%E5%85%B7/</loc>
-    
-    <lastmod>2021-11-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/10/26/%E5%85%B6%E4%BB%96/</loc>
-    
-    <lastmod>2021-10-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/08/19/hi/</loc>
-    
-    <lastmod>2021-10-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/10/26/%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80/</loc>
-    
-    <lastmod>2021-10-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/08/19/%E4%B8%80%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</loc>
-    
-    <lastmod>2021-08-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/08/30/%E5%B1%8F%E8%94%BD%E5%B9%BF%E5%91%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AA%9A%E6%93%8D%E4%BD%9C/</loc>
-    
-    <lastmod>2021-08-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/08/30/home/</loc>
-    
-    <lastmod>2021-08-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/08/19/%E6%9B%BE%E7%BB%8F%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6/</loc>
-    
-    <lastmod>2021-08-22</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2021-08-19</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -69,44 +15,18 @@
     
     <lastmod>2021-08-19</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2021/08/19/%E7%94%9F%E6%B4%BB%E4%B9%9F%E8%AE%B8%E9%9C%80%E8%A6%81%E7%82%B9%E6%83%8A%E5%96%9C/</loc>
-    
-    <lastmod>2021-08-19</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2021-12-09</lastmod>
+    <lastmod>2021-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://yoursite.com/tags/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 
   
